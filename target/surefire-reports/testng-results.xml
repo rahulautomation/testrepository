@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.test.TestPageLogin" duration-ms="87256" started-at="2018-12-05T20:21:15Z" finished-at="2018-12-05T20:22:42Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="87256" started-at="2018-12-05T20:21:15Z" finished-at="2018-12-05T20:22:42Z">
+      <class name="com.qa.test.TestPageLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="setup" is-config="true" duration-ms="40335" started-at="2018-12-06T01:51:15Z" finished-at="2018-12-06T01:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpagetitletest()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="loginpagetitletest" duration-ms="82" started-at="2018-12-06T01:51:55Z" finished-at="2018-12-06T01:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitletest -->
+        <test-method status="PASS" signature="breakin()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="breakin" is-config="true" duration-ms="1555" started-at="2018-12-06T01:51:55Z" finished-at="2018-12-06T01:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakin -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="setup" is-config="true" duration-ms="17389" started-at="2018-12-06T01:51:57Z" finished-at="2018-12-06T01:52:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoimagetest()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="logoimagetest" duration-ms="2403" started-at="2018-12-06T01:52:14Z" finished-at="2018-12-06T01:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoimagetest -->
+        <test-method status="PASS" signature="breakin()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="breakin" is-config="true" duration-ms="2246" started-at="2018-12-06T01:52:17Z" finished-at="2018-12-06T01:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakin -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="setup" is-config="true" duration-ms="11030" started-at="2018-12-06T01:52:19Z" finished-at="2018-12-06T01:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signintest()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="signintest" duration-ms="11324" started-at="2018-12-06T01:52:30Z" finished-at="2018-12-06T01:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signintest -->
+        <test-method status="PASS" signature="breakin()[pri:0, instance:com.qa.test.TestPageLogin@6bf256fa]" name="breakin" is-config="true" duration-ms="867" started-at="2018-12-06T01:52:41Z" finished-at="2018-12-06T01:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakin -->
+      </class> <!-- com.qa.test.TestPageLogin -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.test.TestPageLogin -->
+</testng-results>

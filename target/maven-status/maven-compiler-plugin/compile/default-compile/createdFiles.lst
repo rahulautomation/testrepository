@@ -1,0 +1,5 @@
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\pages\Home_Page.class
+com\crm\qa\pages\Context_Page.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\SignUp_Page.class
