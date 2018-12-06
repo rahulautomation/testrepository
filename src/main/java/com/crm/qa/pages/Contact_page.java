@@ -6,6 +6,9 @@ public class Contact_page {
 	public void contact()
 	{
 		System.out.println("contact");
+		System.out.println("new change");
+		
 	}
+	
 
 }
